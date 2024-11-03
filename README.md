@@ -44,4 +44,4 @@ Here is a preview of the app:
 ## Acknowledgments
 
 - Special thanks to all the quote sources that inspired this project.
-- Thanks to the Treehouse coding community for providing invaluable resources and support.
+- Thanks to the [Treehouse](https://teamtreehouse.com/) coding community for providing invaluable resources and support.

@@ -6,30 +6,30 @@ The Random Quote Generator is a simple web application that displays a random qu
 
 ## Features
 
-- Displays a random quote.
-- Automatically refreshes the quote every 5 seconds.
-- Allows users to click a button to generate a new quote immediately.
-- Randomly changes the background color with each new quote.
-- Supports quotes with optional citation, year, and tags.
+✅ Displays a random quote.\
+✅Automatically refreshes the quote every 5 seconds.\
+✅Allows users to click a button to generate a new quote immediately.\
+✅ Randomly changes the background color with each new quote.\
+✅Supports quotes with optional citation, year, and tags.
 
-## Technologies Used
+## 🖥️ Live Demo
+
+You can see this project in action [here](https://hermanconnor.github.io/random-quote-generator/)
+
+## ⌨️🖱️Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have a modern web browser to run the application.
+## 🛠️ Getting Started
 
 ### Installation
 
 1. Clone the repository or download the ZIP file.
 2. Open `index.html` in your web browser.
 
-## Usage
+## 📌 Usage
 
 1. Click the "Show Another Quote" button to generate a new random quote.
 2. Wait for 5 seconds to see the quote change automatically.

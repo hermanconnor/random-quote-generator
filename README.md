@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Random Quote Generator is a simple web application that displays a random quote each time the user clicks a button or after a specified interval. This was my first project in the [Treehouse](https://teamtreehouse.com/) full stack JavaScript techdegree. The project is built using HTML, CSS, and JavaScript, making it a great way to practice front-end development skills.
+The Random Quote Generator is a simple web application that displays a random quote each time the user clicks a button or after a specified interval. This was my first project in the [Treehouse](https://teamtreehouse.com/techdegree/full-stack-javascript) full stack JavaScript techdegree. The project is built using HTML, CSS, and JavaScript, making it a great way to practice front-end development skills.
 
 ## Features
 
